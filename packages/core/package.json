@@ -1,0 +1,14 @@
+{
+  "name": "@nilify/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "nil <nilifyapp@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/nilify-core.js",
+  "files": [
+    "lib"
+  ]
+}
+
+
